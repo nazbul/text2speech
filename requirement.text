@@ -1,0 +1,4 @@
+you need the external library pyttsx3.
+to install it goto command prompt and type pip install pyttsx3
+press enter to install pyttsx3
+if it installed successfully you can run the code.
